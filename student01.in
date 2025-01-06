@@ -1,0 +1,14 @@
+# creating a paragraph and inserting some lines
+#add_paragraph_after 0
+#add_line_after 0 0 *Fear the turtle
+#print_document
+#print_document bla
+
+#add_paragraph_after 0
+#add_line_after 1 0 *SOMETHING2323
+#print_document
+#add_line_after 1 0 *SOMETHINGD
+
+load_file student01.txt
+print_document
+quit
